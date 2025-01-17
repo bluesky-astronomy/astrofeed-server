@@ -11,8 +11,8 @@ import random
 PINNED_POSTS = {    
     "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3kyzye4lujs2w": 3.0,  # Signup instructions
     "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3l3xtpvv46k24": 1.5,  # List of new feeds from Sep 12th 2024
-    # "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3kyxnyimjna2a": 0.5,  # Like the feed pls
-    "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3lfhcdbpfzk2f": 3.0,  # AAS 245
+    "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3kyxnyimjna2a": 0.5,  # Like the feed pls
+    # "at://did:plc:xy2zorw2ys47poflotxthlzg/app.bsky.feed.post/3lfhcdbpfzk2f": 3.0,  # AAS 245
 }
 
 def add_pinned_post_to_feed(body):
